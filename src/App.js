@@ -11,7 +11,7 @@ function App() {
   const [error, setError] = useState('');
   const [isRegistered, setIsRegistered] = useState(false);
 
-  const API_URL = process.env.REACT_APP_API_URL || 'https://your-pterodactyl-server.com';
+  const API_URL = process.env.REACT_APP_API_URL || 'https://myapp.goodnesstechhost.xyz';
 
   const register = async (e) => {
     e.preventDefault();
