@@ -4,10 +4,10 @@
       "username": "1234",
       "password": "$2b$10$4C4JxsdjSK3BLTz24cmNquuGGv6tmv8zWwdnrfmYK8mW7.qthOtam",
       "email": "idowu4226@gmail.com",
-      "coins": 50,
+      "coins": 100,
       "deployments": 0,
       "dailyClaims": 0,
-      "lastClaimDate": null,
+      "lastClaimDate": "2025-07-22T15:30:21.225Z",
       "createdAt": "2025-07-22T15:30:17.950Z",
       "isActive": true
     }
