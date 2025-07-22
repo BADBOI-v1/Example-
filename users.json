@@ -92,8 +92,8 @@
       "username": "Fauz ",
       "password": "$2b$10$W6fhthRiIarpGxzV1Z1osOBPkkvxF4nxiDzsTPTtB7uEBhi36SvZW",
       "email": "fauzbot402@gmail.com",
-      "coins": 100,
-      "deployments": 0,
+      "coins": 5,
+      "deployments": 1,
       "dailyClaims": 0,
       "lastClaimDate": "2025-07-22T15:38:54.051Z",
       "createdAt": "2025-07-22T15:38:47.455Z",
@@ -108,6 +108,17 @@
       "dailyClaims": 0,
       "lastClaimDate": null,
       "createdAt": "2025-07-22T15:38:50.349Z",
+      "isActive": true
+    },
+    "Leonardo ": {
+      "username": "Leonardo ",
+      "password": "$2b$10$NkRSb7aVZQ3Hkdc7.zdMmuCd6aEEx6YTklZhYCVNV9ErADWdOA.a.",
+      "email": "",
+      "coins": 50,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": null,
+      "createdAt": "2025-07-22T15:38:55.454Z",
       "isActive": true
     }
   },
