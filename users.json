@@ -92,11 +92,22 @@
       "username": "Fauz ",
       "password": "$2b$10$W6fhthRiIarpGxzV1Z1osOBPkkvxF4nxiDzsTPTtB7uEBhi36SvZW",
       "email": "fauzbot402@gmail.com",
+      "coins": 100,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-22T15:38:54.051Z",
+      "createdAt": "2025-07-22T15:38:47.455Z",
+      "isActive": true
+    },
+    "Knight ": {
+      "username": "Knight ",
+      "password": "$2b$10$foEg6/NROZSj.6wHcSGq8.MSkehcIAwlYLwPZ6k0TQDIeunEpbu22",
+      "email": "ojotaiwo624@gmail.com",
       "coins": 50,
       "deployments": 0,
       "dailyClaims": 0,
       "lastClaimDate": null,
-      "createdAt": "2025-07-22T15:38:47.455Z",
+      "createdAt": "2025-07-22T15:38:50.349Z",
       "isActive": true
     }
   },
