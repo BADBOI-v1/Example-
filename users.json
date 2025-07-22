@@ -10,17 +10,6 @@
       "lastClaimDate": "2025-07-22T16:39:04.798Z",
       "createdAt": "2025-07-22T16:38:58.466Z",
       "isActive": true
-    },
-    "Rwbliss40": {
-      "username": "Rwbliss40",
-      "password": "$2b$10$xU.MT5mSkgU6Tpi.E71YXeqb1FoVSAeULHxaZ/QCRo/Nl/yX1H8JG",
-      "email": "",
-      "coins": 100,
-      "deployments": 0,
-      "dailyClaims": 0,
-      "lastClaimDate": "2025-07-22T16:48:40.060Z",
-      "createdAt": "2025-07-22T16:48:36.023Z",
-      "isActive": true
     }
   },
   "admins": {
