@@ -1,5 +1,16 @@
 {
   "users": {
+    "1234": {
+      "username": "1234",
+      "password": "$2b$10$bAWoJ80QO5xYsm.axUMnku8VzXJAPxgcV3PyY0I5UWMeAc1F2ymCi",
+      "email": "idowu4226@gmail.com",
+      "coins": 50,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": null,
+      "createdAt": "2025-07-22T18:33:29.572Z",
+      "isActive": true
+    },
     "Dave": {
       "username": "Dave",
       "password": "$2b$10$kgSCXqKua55CzosYChHbGOugT0M6EqE7Coj3MZXKlGoCF3Da7TNcK",
