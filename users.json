@@ -65,6 +65,17 @@
       "lastClaimDate": null,
       "createdAt": "2025-07-22T15:37:04.351Z",
       "isActive": true
+    },
+    "saad": {
+      "username": "saad",
+      "password": "$2b$10$yfZBJ8.sIWQbYA01LCHO/urZWZI7hrFs5PYjGWH.p77YcfcNuL3Ce",
+      "email": "shamstiktok33@gmail.com",
+      "coins": 50,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": null,
+      "createdAt": "2025-07-22T15:37:13.710Z",
+      "isActive": true
     }
   },
   "admins": {
