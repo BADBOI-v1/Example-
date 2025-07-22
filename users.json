@@ -1,5 +1,16 @@
 {
   "users": {
+    "1234": {
+      "username": "1234",
+      "password": "$2b$10$d31pE9RSWaNbZK0SuB/hGu0jvxDrlmmPvJYlSUn5j.j7t6TqP1T22",
+      "email": "idowu4226@gmail.com",
+      "coins": 50,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": null,
+      "createdAt": "2025-07-22T17:00:54.001Z",
+      "isActive": true
+    },
     "SOFACE ": {
       "username": "SOFACE ",
       "password": "$2b$10$jTXGkbqdGYIBpLezz0HTvu9zpsN3QmWsN2PkG0X4Gn6foF9ExD06K",
