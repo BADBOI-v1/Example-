@@ -59,10 +59,10 @@
       "username": "Muqeett",
       "password": "$2b$10$vsFB8rn1CIqnsmcGi9U8w.v.zNGr37t9UqkECqp2Jnpi4yTkDuirO",
       "email": "muqeettaiwoalabi9@gmail.com",
-      "coins": 50,
-      "deployments": 0,
+      "coins": 5,
+      "deployments": 1,
       "dailyClaims": 0,
-      "lastClaimDate": null,
+      "lastClaimDate": "2025-07-22T15:37:23.003Z",
       "createdAt": "2025-07-22T15:37:04.351Z",
       "isActive": true
     },
