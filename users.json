@@ -120,6 +120,17 @@
       "lastClaimDate": null,
       "createdAt": "2025-07-22T15:38:55.454Z",
       "isActive": true
+    },
+    "Hhh": {
+      "username": "Hhh",
+      "password": "$2b$10$CJn.b4zA99qESGhlluKc8O96H/CunNInzPcRxyrckpQxSHO4R1SJa",
+      "email": "",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-22T15:44:39.262Z",
+      "createdAt": "2025-07-22T15:44:36.292Z",
+      "isActive": true
     }
   },
   "admins": {
