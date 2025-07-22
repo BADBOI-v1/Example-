@@ -1,28 +1,3 @@
 {
-  "activeSessions": {
-    "263789830945": {
-      "username": "Hsjdndfz",
-      "startedAt": "2025-07-22T19:11:18.943Z",
-      "lastActive": "2025-07-22T19:27:03.251Z",
-      "restartCount": 1
-    },
-    "263719948199": {
-      "username": "Hsjdndfzhs",
-      "startedAt": "2025-07-22T19:27:06.281Z",
-      "lastActive": "2025-07-22T19:27:06.281Z",
-      "restartCount": 0
-    },
-    "2348140825959": {
-      "username": "1234",
-      "startedAt": "2025-07-22T19:27:02.758Z",
-      "lastActive": "2025-07-22T19:27:02.758Z",
-      "restartCount": 0
-    },
-    "2348133334473": {
-      "username": "Wierdo",
-      "startedAt": "2025-07-22T19:27:06.341Z",
-      "lastActive": "2025-07-22T19:27:06.341Z",
-      "restartCount": 0
-    }
-  }
+  "activeSessions": {}
 }
