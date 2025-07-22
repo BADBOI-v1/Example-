@@ -43,6 +43,17 @@
       "lastClaimDate": "2025-07-22T21:17:55.329Z",
       "createdAt": "2025-07-22T21:17:46.586Z",
       "isActive": true
+    },
+    "Hhshs": {
+      "username": "Hhshs",
+      "password": "$2b$10$Oo4j3JRT/Yi1EXU0cM/bmOSm0TJYh5W6gv2oZ7HAtCP/DvJhIrW.y",
+      "email": "",
+      "coins": 50,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": null,
+      "createdAt": "2025-07-22T21:27:22.796Z",
+      "isActive": true
     }
   },
   "admins": {
