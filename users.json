@@ -158,11 +158,33 @@
       "username": "The boi is good ",
       "password": "$2b$10$hnXNpYLAL734Va2cBd5kB.tkmZmBOkLZmXo7ubU/BBgpj2c51bIyO",
       "email": "",
-      "coins": 100,
-      "deployments": 0,
+      "coins": 5,
+      "deployments": 1,
       "dailyClaims": 0,
       "lastClaimDate": "2025-07-22T19:34:10.252Z",
       "createdAt": "2025-07-22T19:34:06.508Z",
+      "isActive": true
+    },
+    "codlord": {
+      "username": "codlord",
+      "password": "$2b$10$NOCXAF1EsYY4aif9BjAf2u7rqyAEtcpdVRfs0IjxRmqk0dfv1T5Lm",
+      "email": "",
+      "coins": 100,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-22T19:34:55.321Z",
+      "createdAt": "2025-07-22T19:34:49.902Z",
+      "isActive": true
+    },
+    "Baseet": {
+      "username": "Baseet",
+      "password": "$2b$10$v9dNE7MGxikInua/XNjoL.8PLVm83GVkAOejZX7knP/kAC5zVHcxa",
+      "email": "",
+      "coins": 100,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-22T19:34:58.924Z",
+      "createdAt": "2025-07-22T19:34:51.671Z",
       "isActive": true
     }
   },
