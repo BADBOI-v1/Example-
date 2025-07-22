@@ -4,8 +4,8 @@
       "username": "1234",
       "password": "$2b$10$bAWoJ80QO5xYsm.axUMnku8VzXJAPxgcV3PyY0I5UWMeAc1F2ymCi",
       "email": "idowu4226@gmail.com",
-      "coins": 5,
-      "deployments": 1,
+      "coins": 588888798,
+      "deployments": 2,
       "dailyClaims": 0,
       "lastClaimDate": "2025-07-22T18:33:34.269Z",
       "createdAt": "2025-07-22T18:33:29.572Z",
@@ -64,6 +64,17 @@
       "dailyClaims": 0,
       "lastClaimDate": "2025-07-22T18:30:16.914Z",
       "createdAt": "2025-07-22T18:30:13.802Z",
+      "isActive": true
+    },
+    "Nsnnes": {
+      "username": "Nsnnes",
+      "password": "$2b$10$57azFEYCWtkdqLeb8b7Ep.Y8f6kO9fUdG8SLBCOyYmYJVwlnv3/Gu",
+      "email": "",
+      "coins": 50,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": null,
+      "createdAt": "2025-07-22T18:40:12.558Z",
       "isActive": true
     }
   },
