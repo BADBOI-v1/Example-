@@ -87,6 +87,17 @@
       "lastClaimDate": "2025-07-22T15:37:54.572Z",
       "createdAt": "2025-07-22T15:37:35.420Z",
       "isActive": true
+    },
+    "Fauz ": {
+      "username": "Fauz ",
+      "password": "$2b$10$W6fhthRiIarpGxzV1Z1osOBPkkvxF4nxiDzsTPTtB7uEBhi36SvZW",
+      "email": "fauzbot402@gmail.com",
+      "coins": 50,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": null,
+      "createdAt": "2025-07-22T15:38:47.455Z",
+      "isActive": true
     }
   },
   "admins": {
