@@ -1,5 +1,16 @@
 {
   "users": {
+    "1234": {
+      "username": "1234",
+      "password": "$2b$10$Dx4pewS.tzndCNVRcR0WIuSD00nm5gYHhS03E/dfPKyKBq8ODnUgO",
+      "email": "idowu4226@gmail.com",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-22T16:55:41.583Z",
+      "createdAt": "2025-07-22T16:55:38.043Z",
+      "isActive": true
+    },
     "SOFACE ": {
       "username": "SOFACE ",
       "password": "$2b$10$jTXGkbqdGYIBpLezz0HTvu9zpsN3QmWsN2PkG0X4Gn6foF9ExD06K",
@@ -13,13 +24,13 @@
     },
     "Rwbliss40": {
       "username": "Rwbliss40",
-      "password": "$2b$10$wpxlidRywEmD1v5.hHOmluexEM4050HzALUv/Q.5p4x.jFHjoi9w.",
+      "password": "$2b$10$xU.MT5mSkgU6Tpi.E71YXeqb1FoVSAeULHxaZ/QCRo/Nl/yX1H8JG",
       "email": "",
-      "coins": 100,
-      "deployments": 0,
+      "coins": 5,
+      "deployments": 1,
       "dailyClaims": 0,
-      "lastClaimDate": "2025-07-22T16:40:16.368Z",
-      "createdAt": "2025-07-22T16:40:12.729Z",
+      "lastClaimDate": "2025-07-22T16:48:40.060Z",
+      "createdAt": "2025-07-22T16:48:36.023Z",
       "isActive": true
     }
   },
