@@ -65,6 +65,116 @@
       "lastClaimDate": "2025-07-22T21:42:30.614Z",
       "createdAt": "2025-07-22T21:42:27.729Z",
       "isActive": true
+    },
+    "Retroeto": {
+      "username": "Retroeto",
+      "password": "$2b$10$Q9VvxlO6Fvptlx9CI.3upOx5cnlj0ZoOlkAqwx20mq4wdStu1OfzK",
+      "email": "oyetunjitomiwa550@gmail.com",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-22T21:44:27.320Z",
+      "createdAt": "2025-07-22T21:44:17.597Z",
+      "isActive": true
+    },
+    "Muqeettjssb": {
+      "username": "Muqeettjssb",
+      "password": "$2b$10$UQSsw1zb4pKs57zLLJFlTOEkiq/ogr22ZN9qeCVHHl0.9x/qdEWde",
+      "email": "muqeettaiwoalabi9@gmail.com",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-22T21:45:19.752Z",
+      "createdAt": "2025-07-22T21:44:59.746Z",
+      "isActive": true
+    },
+    "Sshbsb": {
+      "username": "Sshbsb",
+      "password": "$2b$10$iNfimaiQLa3h1YdYtFpCOun/vVi6ZtoF1TUWqiDv3aYM1p.ByG9qC",
+      "email": "muqeettaiwoalabi9@gmail.com",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-22T21:46:52.074Z",
+      "createdAt": "2025-07-22T21:46:49.009Z",
+      "isActive": true
+    },
+    "Sshbsmjj": {
+      "username": "Sshbsmjj",
+      "password": "$2b$10$APRV97bkAcmNjnrze5o84OMWISZPCzxiZAuBKsRV2PIVAIycv8DTe",
+      "email": "muqeettaiwoalabi9@gmail.com",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-22T21:47:42.120Z",
+      "createdAt": "2025-07-22T21:47:39.587Z",
+      "isActive": true
+    },
+    "Bbbhh": {
+      "username": "Bbbhh",
+      "password": "$2b$10$MwAbh/95ocXiBBnVQdEIoeWOaWfhW4HCMAXzzzbMCl5RZ4U0QomDC",
+      "email": "muqeettaiwoalabi9@gmail.com",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-22T21:49:06.852Z",
+      "createdAt": "2025-07-22T21:48:20.125Z",
+      "isActive": true
+    },
+    "Vggyu": {
+      "username": "Vggyu",
+      "password": "$2b$10$zZ77GGL3R1pdQx4Qr4NoausRYAsx07pDUMOIdtA8uljklgrD2ddBa",
+      "email": "muqeettaiwoalabi9@gmail.com",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-22T21:50:48.311Z",
+      "createdAt": "2025-07-22T21:50:45.169Z",
+      "isActive": true
+    },
+    "muqeett": {
+      "username": "muqeett",
+      "password": "$2b$10$nrjuBuRK0PQTSNn6dAi.se.SL1O3EoqTMpgYUIQTV6cPLGt9Y16D6",
+      "email": "muqeettaiwoalabi9@gmail.com",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-22T21:51:43.325Z",
+      "createdAt": "2025-07-22T21:51:40.508Z",
+      "isActive": true
+    },
+    "Emzy": {
+      "username": "Emzy",
+      "password": "$2b$10$thP8ySwlQZfw11IhaCofCOEJ3l4z/cgVpGs0PQeM1/95HuTQulRUq",
+      "email": "shoplava911@gmail.com",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-22T21:53:39.533Z",
+      "createdAt": "2025-07-22T21:53:05.379Z",
+      "isActive": true
+    },
+    "Prime Sparkle ": {
+      "username": "Prime Sparkle ",
+      "password": "$2b$10$lSkEIEnzRiJ6M/50Qaxi6eIOobfYuWFNJKLeLF9zZ2K9YI8I8bU9y",
+      "email": "princessiheonu@gmail.com",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-22T22:03:03.106Z",
+      "createdAt": "2025-07-22T22:02:51.606Z",
+      "isActive": true
+    },
+    "Da": {
+      "username": "Da",
+      "password": "$2b$10$yr5P9.Df2rQdXQE7A1CeY.lbf5IItyHWWAw5L9//dLwaxqFCNeWfy",
+      "email": "",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-22T22:04:57.262Z",
+      "createdAt": "2025-07-22T22:04:54.766Z",
+      "isActive": true
     }
   },
   "admins": {
