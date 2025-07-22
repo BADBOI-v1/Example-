@@ -76,6 +76,17 @@
       "lastClaimDate": null,
       "createdAt": "2025-07-22T15:37:13.710Z",
       "isActive": true
+    },
+    "Deku": {
+      "username": "Deku",
+      "password": "$2b$10$DtW2l5beMmJopDmTlCw6uuV3DDlSpj20ephpHTsbO8q5w0LM8h4X.",
+      "email": "danjoshua5550@gmail.com",
+      "coins": 50,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": null,
+      "createdAt": "2025-07-22T15:37:35.420Z",
+      "isActive": true
     }
   },
   "admins": {
