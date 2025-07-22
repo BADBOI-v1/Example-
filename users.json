@@ -186,6 +186,17 @@
       "lastClaimDate": "2025-07-22T19:34:58.924Z",
       "createdAt": "2025-07-22T19:34:51.671Z",
       "isActive": true
+    },
+    "Timi_shittu11": {
+      "username": "Timi_shittu11",
+      "password": "$2b$10$lC7pkuisO8iIihLExYnImuEqu2vpaw8tVdFUHjkPcKLbzJpnqm3yC",
+      "email": "shittutimi11@gmail.com",
+      "coins": 50,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": null,
+      "createdAt": "2025-07-22T19:35:44.031Z",
+      "isActive": true
     }
   },
   "admins": {
