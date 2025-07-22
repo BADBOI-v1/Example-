@@ -103,10 +103,10 @@
       "username": "Knight ",
       "password": "$2b$10$foEg6/NROZSj.6wHcSGq8.MSkehcIAwlYLwPZ6k0TQDIeunEpbu22",
       "email": "ojotaiwo624@gmail.com",
-      "coins": 50,
-      "deployments": 0,
+      "coins": 5,
+      "deployments": 1,
       "dailyClaims": 0,
-      "lastClaimDate": null,
+      "lastClaimDate": "2025-07-22T15:39:40.755Z",
       "createdAt": "2025-07-22T15:38:50.349Z",
       "isActive": true
     },
