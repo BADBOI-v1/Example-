@@ -32,6 +32,28 @@
       "lastClaimDate": "2025-07-22T15:36:04.530Z",
       "createdAt": "2025-07-22T15:35:57.186Z",
       "isActive": true
+    },
+    "Hhs": {
+      "username": "Hhs",
+      "password": "$2b$10$N3H7QtaZukwIDGEgN2t2LOnj8kN.KtQnBafcl1wtbI4DVb8jzosDC",
+      "email": "",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-22T15:36:37.774Z",
+      "createdAt": "2025-07-22T15:36:34.756Z",
+      "isActive": true
+    },
+    "Vv": {
+      "username": "Vv",
+      "password": "$2b$10$BkvhLPLH9c9uNLVcyNL2vee1XFub.7Jpqp2cRMytAJUWNXhYso6Aa",
+      "email": "",
+      "coins": 50,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": null,
+      "createdAt": "2025-07-22T15:36:49.164Z",
+      "isActive": true
     }
   },
   "admins": {
