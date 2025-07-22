@@ -4,8 +4,8 @@
       "username": "1234",
       "password": "$2b$10$UJTddCQ7SFonNKlejXOYaOOAhU/wcm3X7wtPgJpZpu6RAosm9KH8y",
       "email": "idowu4226@gmail.com",
-      "coins": 84945839,
-      "deployments": 29,
+      "coins": 84945934,
+      "deployments": 28,
       "dailyClaims": 0,
       "lastClaimDate": "2025-07-22T17:32:16.878Z",
       "createdAt": "2025-07-22T17:32:08.984Z",
@@ -31,39 +31,6 @@
       "dailyClaims": 0,
       "lastClaimDate": "2025-07-22T17:35:23.454Z",
       "createdAt": "2025-07-22T17:35:17.894Z",
-      "isActive": true
-    },
-    "Diamond ": {
-      "username": "Diamond ",
-      "password": "$2b$10$a7ARL5znMkV9CERsr3W8K.6oAJ95Qe3e3FtiNbu/1YdemLCDD2Jyy",
-      "email": "diamondleeyoung3@gmail.com",
-      "coins": 5,
-      "deployments": 1,
-      "dailyClaims": 0,
-      "lastClaimDate": "2025-07-22T18:00:22.715Z",
-      "createdAt": "2025-07-22T18:00:13.391Z",
-      "isActive": true
-    },
-    "Samme": {
-      "username": "Samme",
-      "password": "$2b$10$F35lbIBm3aaVEZyecDNUIeUHoSGuW2InKC7XVjVBIOyEKmRdFARaO",
-      "email": "",
-      "coins": 100,
-      "deployments": 0,
-      "dailyClaims": 0,
-      "lastClaimDate": "2025-07-22T18:01:22.181Z",
-      "createdAt": "2025-07-22T18:01:18.370Z",
-      "isActive": true
-    },
-    "Heudbe": {
-      "username": "Heudbe",
-      "password": "$2b$10$Zza6sz28GjpOc/dlAdj/dOHWs4HL0Dc2FcOAgChvckd6HqS8N32rm",
-      "email": "peaceadeoye173@gmail.com",
-      "coins": 100,
-      "deployments": 0,
-      "dailyClaims": 0,
-      "lastClaimDate": "2025-07-22T18:01:28.371Z",
-      "createdAt": "2025-07-22T18:01:25.066Z",
       "isActive": true
     }
   },
