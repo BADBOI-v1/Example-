@@ -1,3 +1,46 @@
 {
-  "activeSessions": {}
+  "activeSessions": {
+    "2349042739600": {
+      "username": "Cathehdh",
+      "startedAt": "2025-07-22T21:27:03.932Z",
+      "lastActive": "2025-07-22T22:27:10.260Z",
+      "restartCount": 8
+    },
+    "2349019244637": {
+      "username": "Hhshs",
+      "startedAt": "2025-07-22T21:27:40.337Z",
+      "lastActive": "2025-07-22T22:27:17.507Z",
+      "restartCount": 8
+    },
+    "2349162541042": {
+      "username": "muqeett",
+      "startedAt": "2025-07-22T22:27:09.893Z",
+      "lastActive": "2025-07-22T22:27:09.893Z",
+      "restartCount": 0
+    },
+    "09027387309": {
+      "username": "Emzy",
+      "startedAt": "2025-07-22T22:27:05.895Z",
+      "lastActive": "2025-07-22T22:27:05.895Z",
+      "restartCount": 0
+    },
+    "2349132376304": {
+      "username": "Retroeto",
+      "startedAt": "2025-07-22T22:27:07.887Z",
+      "lastActive": "2025-07-22T22:27:07.887Z",
+      "restartCount": 0
+    },
+    "07015396239": {
+      "username": "Da",
+      "startedAt": "2025-07-22T22:27:08.917Z",
+      "lastActive": "2025-07-22T22:27:08.917Z",
+      "restartCount": 0
+    },
+    "2349076394620": {
+      "username": "Prime Sparkle ",
+      "startedAt": "2025-07-22T22:27:11.228Z",
+      "lastActive": "2025-07-22T22:27:11.228Z",
+      "restartCount": 0
+    }
+  }
 }
