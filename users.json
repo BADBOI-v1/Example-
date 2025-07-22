@@ -76,6 +76,17 @@
       "lastClaimDate": "2025-07-22T18:40:16.515Z",
       "createdAt": "2025-07-22T18:40:12.558Z",
       "isActive": true
+    },
+    "Hsjdndfz": {
+      "username": "Hsjdndfz",
+      "password": "$2b$10$YXGOu5ya7YjWQ9uL9fBv4ucIKAC59GaZMz3k/BkRppWjQZv5Y26pm",
+      "email": "",
+      "coins": 50,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": null,
+      "createdAt": "2025-07-22T19:10:40.185Z",
+      "isActive": true
     }
   },
   "admins": {
