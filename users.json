@@ -21,6 +21,17 @@
       "lastClaimDate": "2025-07-22T15:35:11.308Z",
       "createdAt": "2025-07-22T15:35:00.808Z",
       "isActive": true
+    },
+    "roman ": {
+      "username": "roman ",
+      "password": "$2b$10$trumfW5jGaSOOlSKHNLpO.OJtnQGAW4Z1uyySc1oAPz2Qv7aK3jk.",
+      "email": "roman887655@gmail.com",
+      "coins": 100,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-22T15:36:04.530Z",
+      "createdAt": "2025-07-22T15:35:57.186Z",
+      "isActive": true
     }
   },
   "admins": {
