@@ -1,5 +1,17 @@
 {
-  "users": {},
+  "users": {
+    "Killua": {
+      "username": "Killua",
+      "password": "$2b$10$.ph/60p.A49p5r215x2Y9O0NUFjEotzD2OK.KNhY7Rn4JL4/vC1ZC",
+      "email": "",
+      "coins": 50,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": null,
+      "createdAt": "2025-07-22T17:31:16.019Z",
+      "isActive": true
+    }
+  },
   "admins": {
     "kingbadboi": {
       "username": "kingbadboi",
