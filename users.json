@@ -4,7 +4,7 @@
       "username": "1234",
       "password": "$2b$10$d31pE9RSWaNbZK0SuB/hGu0jvxDrlmmPvJYlSUn5j.j7t6TqP1T22",
       "email": "idowu4226@gmail.com",
-      "coins": 5,
+      "coins": 1588805,
       "deployments": 1,
       "dailyClaims": 0,
       "lastClaimDate": "2025-07-22T17:00:57.135Z",
@@ -20,6 +20,28 @@
       "dailyClaims": 0,
       "lastClaimDate": "2025-07-22T16:39:04.798Z",
       "createdAt": "2025-07-22T16:38:58.466Z",
+      "isActive": true
+    },
+    "Weiggled": {
+      "username": "Weiggled",
+      "password": "$2b$10$CS/xR3QFm8CKrKPg0J1J6OM4He.EnCpZOHj9awnTei.57EiJLSDO6",
+      "email": "",
+      "coins": 100,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-22T17:03:38.078Z",
+      "createdAt": "2025-07-22T17:03:29.907Z",
+      "isActive": true
+    },
+    "AGENTMOOSE ": {
+      "username": "AGENTMOOSE ",
+      "password": "$2b$10$ouiqlbxzHmfzg7CmK08oSuBrMS.gh0B7DsFZQjDnHhUI6MyXR602W",
+      "email": "mohanmaatla@gmail.com",
+      "coins": 100,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-22T17:03:51.065Z",
+      "createdAt": "2025-07-22T17:03:44.011Z",
       "isActive": true
     }
   },
