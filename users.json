@@ -37,10 +37,10 @@
       "username": "Hsbsh",
       "password": "$2b$10$CnCFnlPG510nEfTS0sE2v.bFbzy8A4Ojb2qr4zKww42/QRyfm6xWW",
       "email": "",
-      "coins": 50,
+      "coins": 100,
       "deployments": 0,
       "dailyClaims": 0,
-      "lastClaimDate": null,
+      "lastClaimDate": "2025-07-22T18:27:52.680Z",
       "createdAt": "2025-07-22T18:27:19.206Z",
       "isActive": true
     }
