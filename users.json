@@ -175,6 +175,61 @@
       "lastClaimDate": "2025-07-22T22:04:57.262Z",
       "createdAt": "2025-07-22T22:04:54.766Z",
       "isActive": true
+    },
+    "Vickky 💕": {
+      "username": "Vickky 💕",
+      "password": "$2b$10$aGpayJtabEO0C.wnQ4JPXu/KwIo4KLJofzsz8B9zxHoPthsg/T5E2",
+      "email": "",
+      "coins": 100,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-22T22:47:11.456Z",
+      "createdAt": "2025-07-22T22:47:06.191Z",
+      "isActive": true
+    },
+    "TRUSTGOD ": {
+      "username": "TRUSTGOD ",
+      "password": "$2b$10$MS04lV/O0lnT5uxk2nAy2uY1FXNuhvWQgUbpaXpfSBGy4tew7Kaxe",
+      "email": "tgod4199@gmail.com",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-22T22:58:46.085Z",
+      "createdAt": "2025-07-22T22:57:12.015Z",
+      "isActive": true
+    },
+    "COOK": {
+      "username": "COOK",
+      "password": "$2b$10$S4mloApUZP88DH.a3sd4hel0jaBATtQgwInwP/tLyNnx83WIRpYpW",
+      "email": "",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-22T23:06:55.221Z",
+      "createdAt": "2025-07-22T23:06:52.223Z",
+      "isActive": true
+    },
+    "$man": {
+      "username": "$man",
+      "password": "$2b$10$dPLsp4HC8v0kpjtAsFVrlucuG1d6.AJVr19QtV.L758WTGjX7Grri",
+      "email": "",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-22T23:08:51.238Z",
+      "createdAt": "2025-07-22T23:08:46.266Z",
+      "isActive": true
+    },
+    "Noeldfa": {
+      "username": "Noeldfa",
+      "password": "$2b$10$qR7Pjmv935AsWcYqeXkThOrT1lDXXSJ77SPkfYaZx6Mi.3kZq.xzi",
+      "email": "",
+      "coins": 100,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-22T23:22:29.774Z",
+      "createdAt": "2025-07-22T23:22:21.958Z",
+      "isActive": true
     }
   },
   "admins": {
