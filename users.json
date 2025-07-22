@@ -1,28 +1,5 @@
 {
-  "users": {
-    "1234": {
-      "username": "1234",
-      "password": "$2b$10$UJTddCQ7SFonNKlejXOYaOOAhU/wcm3X7wtPgJpZpu6RAosm9KH8y",
-      "email": "idowu4226@gmail.com",
-      "coins": 50,
-      "deployments": 0,
-      "dailyClaims": 0,
-      "lastClaimDate": null,
-      "createdAt": "2025-07-22T17:32:08.984Z",
-      "isActive": true
-    },
-    "Killua": {
-      "username": "Killua",
-      "password": "$2b$10$.ph/60p.A49p5r215x2Y9O0NUFjEotzD2OK.KNhY7Rn4JL4/vC1ZC",
-      "email": "",
-      "coins": 100,
-      "deployments": 0,
-      "dailyClaims": 0,
-      "lastClaimDate": "2025-07-22T17:31:43.424Z",
-      "createdAt": "2025-07-22T17:31:16.019Z",
-      "isActive": true
-    }
-  },
+  "users": {},
   "admins": {
     "kingbadboi": {
       "username": "kingbadboi",
