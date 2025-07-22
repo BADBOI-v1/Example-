@@ -153,6 +153,17 @@
       "lastClaimDate": "2025-07-22T19:31:23.804Z",
       "createdAt": "2025-07-22T19:31:19.587Z",
       "isActive": true
+    },
+    "The boi is good ": {
+      "username": "The boi is good ",
+      "password": "$2b$10$hnXNpYLAL734Va2cBd5kB.tkmZmBOkLZmXo7ubU/BBgpj2c51bIyO",
+      "email": "",
+      "coins": 100,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-22T19:34:10.252Z",
+      "createdAt": "2025-07-22T19:34:06.508Z",
+      "isActive": true
     }
   },
   "admins": {
