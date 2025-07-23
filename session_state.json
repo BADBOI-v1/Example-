@@ -1,3 +1,46 @@
 {
-  "activeSessions": {}
+  "activeSessions": {
+    "24162537727": {
+      "username": "𝘓𝘦𝘵𝘰 𝘸𝘢𝘭𝘬𝘦𝘯",
+      "startedAt": "2025-07-23T01:27:09.060Z",
+      "lastActive": "2025-07-23T06:27:20.461Z",
+      "restartCount": 48
+    },
+    "2347057971155": {
+      "username": "Famony",
+      "startedAt": "2025-07-23T01:27:10.849Z",
+      "lastActive": "2025-07-23T06:27:20.440Z",
+      "restartCount": 48
+    },
+    "923051305268": {
+      "username": "roman ",
+      "startedAt": "2025-07-23T01:27:10.661Z",
+      "lastActive": "2025-07-23T06:27:26.380Z",
+      "restartCount": 48
+    },
+    "2348100646037": {
+      "username": "Anonymous ",
+      "startedAt": "2025-07-23T02:27:16.051Z",
+      "lastActive": "2025-07-23T06:27:20.567Z",
+      "restartCount": 40
+    },
+    "23407068837555": {
+      "username": "Temple15",
+      "startedAt": "2025-07-23T03:27:16.094Z",
+      "lastActive": "2025-07-23T06:27:20.536Z",
+      "restartCount": 30
+    },
+    "27655842595": {
+      "username": "George ",
+      "startedAt": "2025-07-23T04:27:12.906Z",
+      "lastActive": "2025-07-23T06:27:20.411Z",
+      "restartCount": 20
+    },
+    "256740108560": {
+      "username": "Shadrack ",
+      "startedAt": "2025-07-23T06:27:20.291Z",
+      "lastActive": "2025-07-23T06:27:20.291Z",
+      "restartCount": 0
+    }
+  }
 }
