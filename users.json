@@ -43,6 +43,105 @@
       "lastClaimDate": "2025-07-23T13:52:32.461Z",
       "createdAt": "2025-07-23T13:52:27.939Z",
       "isActive": true
+    },
+    "Small": {
+      "username": "Small",
+      "password": "$2b$10$IIrnAFuhnA5iIG5u7eMW4uAdjUQRG.ID.0jRYqoOTmauNyMNmkOga",
+      "email": "",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T14:29:59.705Z",
+      "createdAt": "2025-07-23T14:29:50.131Z",
+      "isActive": true
+    },
+    "Oluwanifemi ": {
+      "username": "Oluwanifemi ",
+      "password": "$2b$10$H4MqZ2oR2mjuHVPZC3c5OeZIp9IRUcUCfhV2NJycvr9xH15pvMtCa",
+      "email": "",
+      "coins": 100,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T14:34:04.744Z",
+      "createdAt": "2025-07-23T14:33:58.256Z",
+      "isActive": true
+    },
+    "Zarrah": {
+      "username": "Zarrah",
+      "password": "$2b$10$Z8nf3FZEA412BR6G2dA01uAARKHoovYwhr2J6StxbEYqlTjBiTfpS",
+      "email": "saratmuyideen@gmail.com",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T14:34:42.596Z",
+      "createdAt": "2025-07-23T14:34:32.542Z",
+      "isActive": true
+    },
+    "Gjshy": {
+      "username": "Gjshy",
+      "password": "$2b$10$TI2592eTmITLQlzNK1yP2.ToL2pnsXIQ.r7U6VZ9HfZpy37Lwl3Nu",
+      "email": "",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T14:35:12.001Z",
+      "createdAt": "2025-07-23T14:35:07.704Z",
+      "isActive": true
+    },
+    "Gay": {
+      "username": "Gay",
+      "password": "$2b$10$Lwa8Zj.hxxrDRhaq827UgOSvHbbCbpXQPH3Y9myB9bEi9ykKOIvHq",
+      "email": "",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T14:37:07.292Z",
+      "createdAt": "2025-07-23T14:36:31.420Z",
+      "isActive": true
+    },
+    "Eniola": {
+      "username": "Eniola",
+      "password": "$2b$10$jnuOaK.zqj2cUC34TcOf..rPN5ZT2vD6AFXnE.6rpN82WpvMqvOv.",
+      "email": "saratmuyideen@gmail.com",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T14:39:51.797Z",
+      "createdAt": "2025-07-23T14:39:41.796Z",
+      "isActive": true
+    },
+    "roman ": {
+      "username": "roman ",
+      "password": "$2b$10$SIb9oYOV/hB1WV4mTbM9ROhI..OC/QX6qI9.r8p7bF30KF7/7PeZ2",
+      "email": "roman887655@gmail.com",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T14:46:34.467Z",
+      "createdAt": "2025-07-23T14:46:27.058Z",
+      "isActive": true
+    },
+    "LOKU BAHIRAVA ": {
+      "username": "LOKU BAHIRAVA ",
+      "password": "$2b$10$dHdfxxwvnh/wp3IpTG1orOYXQBbUDRnfd61ctDUySLADpoOt82Gxy",
+      "email": "Chandimalakshan@gmail.com",
+      "coins": 50,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": null,
+      "createdAt": "2025-07-23T14:50:52.485Z",
+      "isActive": true
+    },
+    "Badboi": {
+      "username": "Badboi",
+      "password": "$2b$10$6Uthv/au6ULElbD3C1hmFeTNLWSeAyq638nODr.gyp0XMnniyIdme",
+      "email": "",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T14:59:20.602Z",
+      "createdAt": "2025-07-23T14:59:17.788Z",
+      "isActive": true
     }
   },
   "admins": {
