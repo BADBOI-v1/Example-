@@ -1,3 +1,22 @@
 {
-  "activeSessions": {}
+  "activeSessions": {
+    "24162537727": {
+      "username": "𝘓𝘦𝘵𝘰 𝘸𝘢𝘭𝘬𝘦𝘯",
+      "startedAt": "2025-07-23T01:27:09.060Z",
+      "lastActive": "2025-07-23T01:27:09.060Z",
+      "restartCount": 0
+    },
+    "2347057971155": {
+      "username": "Famony",
+      "startedAt": "2025-07-23T01:27:10.849Z",
+      "lastActive": "2025-07-23T01:27:10.849Z",
+      "restartCount": 0
+    },
+    "923051305268": {
+      "username": "roman ",
+      "startedAt": "2025-07-23T01:27:10.661Z",
+      "lastActive": "2025-07-23T01:27:10.661Z",
+      "restartCount": 0
+    }
+  }
 }
