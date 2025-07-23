@@ -1,3 +1,34 @@
 {
-  "activeSessions": {}
+  "activeSessions": {
+    "254751573475": {
+      "username": "Oiriga ",
+      "startedAt": "2025-07-23T09:05:53.557Z",
+      "lastActive": "2025-07-23T10:27:35.836Z",
+      "restartCount": 12
+    },
+    "254714292432": {
+      "username": "Botsqr5 ",
+      "startedAt": "2025-07-23T09:15:27.994Z",
+      "lastActive": "2025-07-23T10:27:27.813Z",
+      "restartCount": 10
+    },
+    "2349117948563": {
+      "username": "Verified Marine ",
+      "startedAt": "2025-07-23T09:16:03.260Z",
+      "lastActive": "2025-07-23T10:27:26.894Z",
+      "restartCount": 10
+    },
+    "233591748383": {
+      "username": "Trustgod",
+      "startedAt": "2025-07-23T10:27:18.812Z",
+      "lastActive": "2025-07-23T10:27:18.812Z",
+      "restartCount": 0
+    },
+    "2349019244637": {
+      "username": "Hshsh",
+      "startedAt": "2025-07-23T10:27:31.732Z",
+      "lastActive": "2025-07-23T10:27:31.732Z",
+      "restartCount": 0
+    }
+  }
 }
