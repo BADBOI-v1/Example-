@@ -87,6 +87,17 @@
       "lastClaimDate": "2025-07-23T10:14:12.267Z",
       "createdAt": "2025-07-23T10:14:04.388Z",
       "isActive": true
+    },
+    "cybershadow": {
+      "username": "cybershadow",
+      "password": "$2b$10$AXZt2YpLiqdCsWhSMN6P0eQhIByYnnx35Lsk1dmlmy72E5MQFE4.O",
+      "email": "kichukichu0067@gmail.com",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T11:10:28.063Z",
+      "createdAt": "2025-07-23T11:09:54.441Z",
+      "isActive": true
     }
   },
   "admins": {
