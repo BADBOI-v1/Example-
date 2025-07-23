@@ -98,6 +98,28 @@
       "lastClaimDate": "2025-07-23T11:10:28.063Z",
       "createdAt": "2025-07-23T11:09:54.441Z",
       "isActive": true
+    },
+    "Caaspeerrr": {
+      "username": "Caaspeerrr",
+      "password": "$2b$10$tXyINuMfE8ac1qI7h/0c/eePF3V21DdPc.onY3D2fhOabD3EIMH6a",
+      "email": "caspersolos611@gmail.com",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T12:01:54.408Z",
+      "createdAt": "2025-07-23T12:01:51.540Z",
+      "isActive": true
+    },
+    "Mr baby2": {
+      "username": "Mr baby2",
+      "password": "$2b$10$wyCuhvOigzSJL/S9rQ/soetELWuoWb5z.X0bK7DAIl0.a8uj67D66",
+      "email": "",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T12:03:08.781Z",
+      "createdAt": "2025-07-23T12:03:04.587Z",
+      "isActive": true
     }
   },
   "admins": {
