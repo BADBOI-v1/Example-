@@ -1,12 +1,90 @@
 {
-  "users": {},
+  "users": {
+    "1234": {
+      "username": "1234",
+      "password": "$2b$10$XOXtoW4x4the.ytUPCFpjec3EiirzSgonJgqLw87tb3izopTMFo7W",
+      "email": "fauzbot402@gmail.com",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T19:01:36.398Z",
+      "createdAt": "2025-07-23T19:01:30.268Z",
+      "isActive": true
+    },
+    "EKUNgG ": {
+      "username": "EKUNgG ",
+      "password": "$2b$10$oRGqRR5ohSKjWYL2l9fUGea2WuewmtQBzbXrVPHCG6tgbFZTWX4km",
+      "email": "emmanuel77dc@gmail.com",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T17:18:31.987Z",
+      "createdAt": "2025-07-23T17:18:27.447Z",
+      "isActive": true
+    },
+    "Hshsh": {
+      "username": "Hshsh",
+      "password": "$2b$10$LEtuRhdvc0h/sSV6z/fAFOzli.qn43LvB8nusbuINtnJRklwXm6US",
+      "email": "",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T19:36:54.490Z",
+      "createdAt": "2025-07-23T19:36:51.970Z",
+      "isActive": true
+    },
+    "Brey ": {
+      "username": "Brey ",
+      "password": "$2b$10$yWWLICbwV2sbeg0aNt1uQOu/DO7B/L3/KNnud75wKOKp4KVdiqUTO",
+      "email": "leslynyiraale0@gmail.com",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T19:52:16.717Z",
+      "createdAt": "2025-07-23T19:52:06.583Z",
+      "isActive": true
+    },
+    "Fauz ": {
+      "username": "Fauz ",
+      "password": "$2b$10$txbTw0/Bjl7XplqNfg5d9O1ouqy3sTEyk/6nDICegtkKT9bNZh.0K",
+      "email": "fauzbot402@gmail.com",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T19:55:01.561Z",
+      "createdAt": "2025-07-23T19:54:57.397Z",
+      "isActive": true
+    },
+    "Devil": {
+      "username": "Devil",
+      "password": "$2b$10$F8EKpR4GwKkY94GgOduFL.YE8A1ftnRBlTmp6BA47ricChWbh7tOW",
+      "email": "rowanbassett8@gmail.com",
+      "coins": 100,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T20:00:19.352Z",
+      "createdAt": "2025-07-23T20:00:07.195Z",
+      "isActive": true
+    },
+    "balablueasb2": {
+      "username": "balablueasb2",
+      "password": "$2b$10$PuEraw7Yocd0NtOLW22fhugDfH2elNm3UBeXxPgO1HspDShY5ePqW",
+      "email": "",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T20:09:20.242Z",
+      "createdAt": "2025-07-23T20:09:16.581Z",
+      "isActive": true
+    }
+  },
   "admins": {
     "kingbadboi": {
       "username": "kingbadboi",
       "password": "$2b$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
       "coins": null,
       "isAdmin": true,
-      "createdAt": "2025-07-23T19:19:51.689Z"
+      "createdAt": "2025-07-23T17:16:52.532Z"
     }
   },
   "deployments": {},
