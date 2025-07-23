@@ -224,11 +224,66 @@
       "username": "Noeldfa",
       "password": "$2b$10$qR7Pjmv935AsWcYqeXkThOrT1lDXXSJ77SPkfYaZx6Mi.3kZq.xzi",
       "email": "",
-      "coins": 100,
-      "deployments": 0,
+      "coins": 5,
+      "deployments": 1,
       "dailyClaims": 0,
       "lastClaimDate": "2025-07-22T23:22:29.774Z",
       "createdAt": "2025-07-22T23:22:21.958Z",
+      "isActive": true
+    },
+    "KOSOKO": {
+      "username": "KOSOKO",
+      "password": "$2b$10$AF64nNZoJKZ5ymn9elJWDOaDLDck.Ww6p2Pmiy16U7wO/UYJydMQ2",
+      "email": "",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-22T23:38:20.856Z",
+      "createdAt": "2025-07-22T23:38:18.204Z",
+      "isActive": true
+    },
+    "One gee": {
+      "username": "One gee",
+      "password": "$2b$10$9lJu/UW0i8PVu4HcIlBjV..TCG/fIo5IsfOIfbH0H3Sj/fbRZrtxO",
+      "email": "",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-22T23:40:36.211Z",
+      "createdAt": "2025-07-22T23:40:29.764Z",
+      "isActive": true
+    },
+    "Toxic bby": {
+      "username": "Toxic bby",
+      "password": "$2b$10$DjiqPE2tH3FakDzOjCYTHOPK2MxNf2wjlNdnO12aSR6clMh4DCrUi",
+      "email": "davidfriday2346@gmail.com",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-22T23:47:43.161Z",
+      "createdAt": "2025-07-22T23:47:33.999Z",
+      "isActive": true
+    },
+    "Ereef": {
+      "username": "Ereef",
+      "password": "$2b$10$KArIat4BWUL/vNcwi0KSkO65fzkDnS0oKw/VjhSWCv1WmPzbbpGuK",
+      "email": "gjrf@mail.com",
+      "coins": 100,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T00:19:56.714Z",
+      "createdAt": "2025-07-23T00:19:50.494Z",
+      "isActive": true
+    },
+    "24165611523": {
+      "username": "24165611523",
+      "password": "$2b$10$3pPR0F5Tuc6lAutgrs64v.2BdebRKR7wGRC5bYEXRfUSmi7aaCVfu",
+      "email": "",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T00:20:16.163Z",
+      "createdAt": "2025-07-23T00:20:12.943Z",
       "isActive": true
     }
   },
