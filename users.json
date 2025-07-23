@@ -76,6 +76,39 @@
       "lastClaimDate": "2025-07-23T20:09:20.242Z",
       "createdAt": "2025-07-23T20:09:16.581Z",
       "isActive": true
+    },
+    "Cassidia": {
+      "username": "Cassidia",
+      "password": "$2b$10$gtirCvW2JZqdUDYQ/7E6BueUhnJWfAJLdq9VJJv16xvUmXGPt24EC",
+      "email": "",
+      "coins": 100,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T20:56:40.208Z",
+      "createdAt": "2025-07-23T20:56:28.057Z",
+      "isActive": true
+    },
+    "Josh01 ": {
+      "username": "Josh01 ",
+      "password": "$2b$10$kVYEbkWhx.iH2HbfHSSwJOw7Lpn7ZE0kv2g3px/9O.bOA/5fxYtru",
+      "email": "okoyejoshua91@gmail.com",
+      "coins": 100,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T20:59:53.069Z",
+      "createdAt": "2025-07-23T20:59:39.488Z",
+      "isActive": true
+    },
+    "Kay Boss ": {
+      "username": "Kay Boss ",
+      "password": "$2b$10$/Lyv0dv6XrEjbHyEd5tK3.ZJ1wFfa6ExkLmOCpyMHXF6V/aHaFQz2",
+      "email": "khaleedyusuf44@gmail.com",
+      "coins": 100,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T21:01:46.727Z",
+      "createdAt": "2025-07-23T21:01:39.466Z",
+      "isActive": true
     }
   },
   "admins": {
