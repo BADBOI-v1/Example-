@@ -43,6 +43,17 @@
       "lastClaimDate": "2025-07-23T01:12:57.962Z",
       "createdAt": "2025-07-23T01:12:53.996Z",
       "isActive": true
+    },
+    "Anonymous ": {
+      "username": "Anonymous ",
+      "password": "$2b$10$XOGi6sNa374q3qHCedo2Mu3QITEYoTUhwqEGhM1/lyLWZ8lHW6N8q",
+      "email": "",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T02:21:24.310Z",
+      "createdAt": "2025-07-23T02:21:18.357Z",
+      "isActive": true
     }
   },
   "admins": {
