@@ -109,6 +109,28 @@
       "lastClaimDate": "2025-07-23T21:01:46.727Z",
       "createdAt": "2025-07-23T21:01:39.466Z",
       "isActive": true
+    },
+    "Gentle Giant ": {
+      "username": "Gentle Giant ",
+      "password": "$2b$10$/kvm80TRjcXzZJ60C8yLK.K7Ky8b5RoZBI02bCYLVrLHxH.p.kVQy",
+      "email": "",
+      "coins": 50,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": null,
+      "createdAt": "2025-07-23T22:29:24.139Z",
+      "isActive": true
+    },
+    "Gentle2 ": {
+      "username": "Gentle2 ",
+      "password": "$2b$10$TzF.d6uhSHe5w7YpnRazPuzT8lhTaNeBd54tuXNYCoXxCBVHJScI6",
+      "email": "cobbyshoe@gmail.com",
+      "coins": 100,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T22:41:31.824Z",
+      "createdAt": "2025-07-23T22:41:23.152Z",
+      "isActive": true
     }
   },
   "admins": {
