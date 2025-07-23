@@ -10,6 +10,17 @@
       "lastClaimDate": "2025-07-23T13:38:08.086Z",
       "createdAt": "2025-07-23T13:38:02.879Z",
       "isActive": true
+    },
+    "Elcid": {
+      "username": "Elcid",
+      "password": "$2b$10$Q.vv2nLsCI9a2N3zpgiONOORTUnhqeN6ir7xsyYJG0aYzennQG.5m",
+      "email": "atomicprojet@gmail.com",
+      "coins": 50,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": null,
+      "createdAt": "2025-07-23T13:40:37.328Z",
+      "isActive": true
     }
   },
   "admins": {
