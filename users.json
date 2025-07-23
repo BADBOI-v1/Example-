@@ -76,6 +76,17 @@
       "lastClaimDate": "2025-07-23T03:16:45.572Z",
       "createdAt": "2025-07-23T03:16:36.848Z",
       "isActive": true
+    },
+    "George ": {
+      "username": "George ",
+      "password": "$2b$10$1j0V1kqHyqnaddfth2vNWeroXaYIUDB/GwNG9XMVVkGtE6omHvBtm",
+      "email": "",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T03:41:39.564Z",
+      "createdAt": "2025-07-23T03:41:28.877Z",
+      "isActive": true
     }
   },
   "admins": {
