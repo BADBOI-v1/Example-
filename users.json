@@ -87,6 +87,28 @@
       "lastClaimDate": "2025-07-23T03:41:39.564Z",
       "createdAt": "2025-07-23T03:41:28.877Z",
       "isActive": true
+    },
+    "Ramsbabes ": {
+      "username": "Ramsbabes ",
+      "password": "$2b$10$0QHfOXr.gn0DZt6n3OlII.Ctg1THV3LuJNIJsejUrxe.mhh7.SHIK",
+      "email": "bumbashadrack@gmail.com",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T05:44:15.966Z",
+      "createdAt": "2025-07-23T05:44:07.905Z",
+      "isActive": true
+    },
+    "Shadrack ": {
+      "username": "Shadrack ",
+      "password": "$2b$10$qF9SuW0b7WkvFXJvQekOjubNViGHoBSAsvHBAg.kSSi1.7PCWzEuS",
+      "email": "shadrackbots@gmail.com",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T05:55:22.541Z",
+      "createdAt": "2025-07-23T05:55:01.803Z",
+      "isActive": true
     }
   },
   "admins": {
