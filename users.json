@@ -1,5 +1,16 @@
 {
   "users": {
+    "1234": {
+      "username": "1234",
+      "password": "$2b$10$KC9rp2rU8.2V5lZdQXHrYuTFASI2Hne4s6Nrh.5sm.aRiH3qA5wQy",
+      "email": "fauzbot402@gmail.com",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T16:00:35.713Z",
+      "createdAt": "2025-07-23T16:00:29.097Z",
+      "isActive": true
+    },
     "Verifiedcohrenci ": {
       "username": "Verifiedcohrenci ",
       "password": "$2b$10$6iZ/guDPNl0hMVc3DPOUAuuDV.esnTMLrWTSFIxlUg98wXbDJr4SG",
@@ -59,8 +70,8 @@
       "username": "Oluwanifemi ",
       "password": "$2b$10$H4MqZ2oR2mjuHVPZC3c5OeZIp9IRUcUCfhV2NJycvr9xH15pvMtCa",
       "email": "",
-      "coins": 100,
-      "deployments": 0,
+      "coins": 5,
+      "deployments": 1,
       "dailyClaims": 0,
       "lastClaimDate": "2025-07-23T14:34:04.744Z",
       "createdAt": "2025-07-23T14:33:58.256Z",
@@ -141,6 +152,94 @@
       "dailyClaims": 0,
       "lastClaimDate": "2025-07-23T14:59:20.602Z",
       "createdAt": "2025-07-23T14:59:17.788Z",
+      "isActive": true
+    },
+    "Baba_lula_006 ": {
+      "username": "Baba_lula_006 ",
+      "password": "$2b$10$knx4shIvj6tAiWi8WnY.tO4pnPnswDScMTvFJMxVxwLF3QJwEhi.S",
+      "email": "anesuroya@gmail.com",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T15:30:33.508Z",
+      "createdAt": "2025-07-23T15:30:26.445Z",
+      "isActive": true
+    },
+    "Obed ": {
+      "username": "Obed ",
+      "password": "$2b$10$9kYQCFLBKQHZDMsn4Pf4QOPKwkPiTFnOEoD1KNSRurzHuCypb3Y8a",
+      "email": "piusobed59@gmail.com",
+      "coins": 50,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": null,
+      "createdAt": "2025-07-23T15:31:34.945Z",
+      "isActive": true
+    },
+    "37363738374": {
+      "username": "37363738374",
+      "password": "$2b$10$CmTA/8wCKAcL8Ge1.RzHN.TK9hZZ1j2Vb9xq6RraU/.L81AEYYvY6",
+      "email": "chukwuemekadanielwork@gmail.com",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T15:38:28.989Z",
+      "createdAt": "2025-07-23T15:38:26.319Z",
+      "isActive": true
+    },
+    "37363738374t": {
+      "username": "37363738374t",
+      "password": "$2b$10$g/ixJSt5C6zBG4H5i6geY.OvXY6c5P4NWq3eQcKh85cY6kGyk2Ejy",
+      "email": "chukwuemekadaniel2024@gmail.com",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T15:40:15.709Z",
+      "createdAt": "2025-07-23T15:40:08.567Z",
+      "isActive": true
+    },
+    "Fauz ": {
+      "username": "Fauz ",
+      "password": "$2b$10$dxxNW9ThfHuXJhLgiSt/m.FgSxpOECFEc9oZWNJQmXmlaTg7zNK.a",
+      "email": "fauzbot402@gmail.com",
+      "coins": 50,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": null,
+      "createdAt": "2025-07-23T16:02:50.870Z",
+      "isActive": true
+    },
+    "Film": {
+      "username": "Film",
+      "password": "$2b$10$cxGu9cRgl/Wa9qsMNyscGu/jfOptv2L1w6JbxxvGfzjloEc5Ph0Da",
+      "email": "fauzbot402@gmail.com",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T16:04:08.171Z",
+      "createdAt": "2025-07-23T16:04:04.050Z",
+      "isActive": true
+    },
+    "0123": {
+      "username": "0123",
+      "password": "$2b$10$nMAVnC6meKsOgh0CTYWxo.2wj.X03ZauF7DlMFF5rG.fExJf6ZNfu",
+      "email": "apehshedrack01@gmail.com",
+      "coins": 50,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": null,
+      "createdAt": "2025-07-23T16:18:33.783Z",
+      "isActive": true
+    },
+    "Yyyyyy": {
+      "username": "Yyyyyy",
+      "password": "$2b$10$rc/fEuJLvDlUPjrXgRA3NOdKftzpGBX/lPqAHuEIeVNIrnTOO/lNa",
+      "email": "",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T16:26:16.582Z",
+      "createdAt": "2025-07-23T16:26:14.069Z",
       "isActive": true
     }
   },
