@@ -4,10 +4,10 @@
       "username": "1234",
       "password": "$2b$10$XOXtoW4x4the.ytUPCFpjec3EiirzSgonJgqLw87tb3izopTMFo7W",
       "email": "fauzbot402@gmail.com",
-      "coins": 50,
+      "coins": 100,
       "deployments": 0,
       "dailyClaims": 0,
-      "lastClaimDate": null,
+      "lastClaimDate": "2025-07-23T19:01:36.398Z",
       "createdAt": "2025-07-23T19:01:30.268Z",
       "isActive": true
     },
