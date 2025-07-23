@@ -4,10 +4,10 @@
       "username": "Oiriga ",
       "password": "$2b$10$c/2hGO47YgQKAlVzIyQ6NO8Cf4Px9LYMHWu3xZ/ftFMguoabNyUQ6",
       "email": "",
-      "coins": 50,
+      "coins": 100,
       "deployments": 0,
       "dailyClaims": 0,
-      "lastClaimDate": null,
+      "lastClaimDate": "2025-07-23T09:05:26.454Z",
       "createdAt": "2025-07-23T09:04:55.272Z",
       "isActive": true
     }
