@@ -32,6 +32,61 @@
       "lastClaimDate": "2025-07-23T09:15:53.214Z",
       "createdAt": "2025-07-23T09:15:47.518Z",
       "isActive": true
+    },
+    "Frank": {
+      "username": "Frank",
+      "password": "$2b$10$JU7FgykGX0eJ.h5mboK9VOpkzWhzVjHlNZPvPr3CzeoyhyETUU.gu",
+      "email": "",
+      "coins": 100,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T09:47:38.658Z",
+      "createdAt": "2025-07-23T09:46:32.701Z",
+      "isActive": true
+    },
+    "Babag": {
+      "username": "Babag",
+      "password": "$2b$10$IfDDD8AfYKmW29oh1UsK5.bf9ziVra9z96RebaIFPBt5HBGzIcM9O",
+      "email": "",
+      "coins": 100,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T09:55:35.014Z",
+      "createdAt": "2025-07-23T09:55:20.061Z",
+      "isActive": true
+    },
+    "Trustgod": {
+      "username": "Trustgod",
+      "password": "$2b$10$ne4R25Z/Gf/jtsgsFMzP6OT6EOW47Tu8ME8/hQg4A5E/a1vHX9QZi",
+      "email": "tgod4199@gmail.com",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T09:58:18.861Z",
+      "createdAt": "2025-07-23T09:58:06.848Z",
+      "isActive": true
+    },
+    "Hshsh": {
+      "username": "Hshsh",
+      "password": "$2b$10$WKavhnv3LQHOWet.4fE.ku0PXlELkds54QiEz1gz9tUbq1MqpRA6i",
+      "email": "",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T09:59:39.824Z",
+      "createdAt": "2025-07-23T09:59:34.421Z",
+      "isActive": true
+    },
+    "Da": {
+      "username": "Da",
+      "password": "$2b$10$aI.TgpNDcRnmPx6fmdNgDuZ.8aRSE09saZjQC94k4kTMLU1tseogu",
+      "email": "",
+      "coins": 100,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T10:14:12.267Z",
+      "createdAt": "2025-07-23T10:14:04.388Z",
+      "isActive": true
     }
   },
   "admins": {
