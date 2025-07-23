@@ -54,6 +54,28 @@
       "lastClaimDate": "2025-07-23T02:21:24.310Z",
       "createdAt": "2025-07-23T02:21:18.357Z",
       "isActive": true
+    },
+    "Temple15": {
+      "username": "Temple15",
+      "password": "$2b$10$oj3EzFRk1xri7q416IDr4eqUAoZnpwvLtefBpFbpgsM6KrlacTjxe",
+      "email": "t10828422@gmail.com",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T02:37:58.196Z",
+      "createdAt": "2025-07-23T02:37:47.907Z",
+      "isActive": true
+    },
+    "Mods": {
+      "username": "Mods",
+      "password": "$2b$10$GH91T5DgJeUozljsbh3H3uFbJVAXctxMHbOL89gLuP84PRvk2CQgS",
+      "email": "sipramvhbgjb@gmail.com",
+      "coins": 100,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T03:16:45.572Z",
+      "createdAt": "2025-07-23T03:16:36.848Z",
+      "isActive": true
     }
   },
   "admins": {
