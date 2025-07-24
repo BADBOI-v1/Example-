@@ -1,5 +1,28 @@
 {
-  "users": {},
+  "users": {
+    "Prime Sparkle ": {
+      "username": "Prime Sparkle ",
+      "password": "$2b$10$s1ME6QaWYesduT9RE5EZzuLQa3UxSBkN71yddSCMhHT7i7BmijPxO",
+      "email": "",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-24T11:36:39.664Z",
+      "createdAt": "2025-07-24T11:36:35.120Z",
+      "isActive": true
+    },
+    "Lava": {
+      "username": "Lava",
+      "password": "$2b$10$E3gM/z51XVMm7PWunO1XtepgEnY//EqhhYEDziqNdyYRSjX.6Z2K6",
+      "email": "shoplava911@gmail.com",
+      "coins": 100,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-24T12:00:25.273Z",
+      "createdAt": "2025-07-24T12:00:18.797Z",
+      "isActive": true
+    }
+  },
   "admins": {
     "kingbadboi": {
       "username": "kingbadboi",
