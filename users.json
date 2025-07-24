@@ -43,6 +43,17 @@
       "lastClaimDate": "2025-07-24T14:26:26.673Z",
       "createdAt": "2025-07-24T14:26:20.099Z",
       "isActive": true
+    },
+    "24165611523": {
+      "username": "24165611523",
+      "password": "$2b$10$6Blm2zkPBZzG0XZg0gfNg.PLSSN86suMFN0E6hfdtbPTJglT1lDIC",
+      "email": "",
+      "coins": 50,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": null,
+      "createdAt": "2025-07-24T15:37:15.042Z",
+      "isActive": true
     }
   },
   "admins": {
