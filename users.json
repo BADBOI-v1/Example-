@@ -153,6 +153,17 @@
       "lastClaimDate": "2025-07-24T00:22:01.641Z",
       "createdAt": "2025-07-24T00:21:57.500Z",
       "isActive": true
+    },
+    "qsxnky": {
+      "username": "qsxnky",
+      "password": "$2b$10$WgGuPlrGLQDVhClJCgvx.uqP9/ghpoHzvvKv6Ew7ki8qdSmutLyqC",
+      "email": "rid356134@gmail.com",
+      "coins": 100,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-24T00:59:41.435Z",
+      "createdAt": "2025-07-24T00:59:37.608Z",
+      "isActive": true
     }
   },
   "admins": {
