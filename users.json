@@ -1,5 +1,17 @@
 {
-  "users": {},
+  "users": {
+    "Prime Sparkle ": {
+      "username": "Prime Sparkle ",
+      "password": "$2b$10$s1ME6QaWYesduT9RE5EZzuLQa3UxSBkN71yddSCMhHT7i7BmijPxO",
+      "email": "",
+      "coins": 100,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-24T11:36:39.664Z",
+      "createdAt": "2025-07-24T11:36:35.120Z",
+      "isActive": true
+    }
+  },
   "admins": {
     "kingbadboi": {
       "username": "kingbadboi",
