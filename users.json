@@ -197,6 +197,28 @@
       "lastClaimDate": null,
       "createdAt": "2025-07-24T08:06:19.496Z",
       "isActive": true
+    },
+    "Bhadboionl": {
+      "username": "Bhadboionl",
+      "password": "$2b$10$p21iPyjDqn9NrrFXul/J8e3M4P8kFTxSu9Vegokcc2UZtccZKjWki",
+      "email": "yusuftobiloba295@gmail.com",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-24T08:55:20.796Z",
+      "createdAt": "2025-07-24T08:55:09.650Z",
+      "isActive": true
+    },
+    "Kingfx": {
+      "username": "Kingfx",
+      "password": "$2b$10$SOeHHdxO.4I3M2ZSHqpOPuVEcUGuo11wFgIS4hP1iY92hKaG7fsOi",
+      "email": "",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-24T09:11:38.204Z",
+      "createdAt": "2025-07-24T09:11:34.915Z",
+      "isActive": true
     }
   },
   "admins": {
