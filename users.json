@@ -48,10 +48,10 @@
       "username": "24165611523",
       "password": "$2b$10$6Blm2zkPBZzG0XZg0gfNg.PLSSN86suMFN0E6hfdtbPTJglT1lDIC",
       "email": "",
-      "coins": 50,
+      "coins": 100,
       "deployments": 0,
       "dailyClaims": 0,
-      "lastClaimDate": null,
+      "lastClaimDate": "2025-07-24T15:37:21.380Z",
       "createdAt": "2025-07-24T15:37:15.042Z",
       "isActive": true
     }
