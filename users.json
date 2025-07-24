@@ -21,6 +21,17 @@
       "lastClaimDate": "2025-07-24T12:00:25.273Z",
       "createdAt": "2025-07-24T12:00:18.797Z",
       "isActive": true
+    },
+    "I'M HIM": {
+      "username": "I'M HIM",
+      "password": "$2b$10$e50e0DIPBt6ntsnFhRl.COG9AshM9lwhm3t.Z17MbJzCNXHv9LO1u",
+      "email": "johnkenedyajayi370@gmail.com",
+      "coins": 50,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": null,
+      "createdAt": "2025-07-24T14:15:29.801Z",
+      "isActive": true
     }
   },
   "admins": {
