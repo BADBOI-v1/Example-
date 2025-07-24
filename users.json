@@ -65,6 +65,17 @@
       "lastClaimDate": "2025-07-24T15:37:37.186Z",
       "createdAt": "2025-07-24T15:37:33.861Z",
       "isActive": true
+    },
+    "RIckx": {
+      "username": "RIckx",
+      "password": "$2b$10$blya6tNtvaNtgrKjfakZAur2/GsxgpX1wRptS2qjRBQKy3e0qldDi",
+      "email": "",
+      "coins": 50,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": null,
+      "createdAt": "2025-07-24T15:43:35.627Z",
+      "isActive": true
     }
   },
   "admins": {
