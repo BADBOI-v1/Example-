@@ -131,6 +131,28 @@
       "lastClaimDate": "2025-07-23T22:41:31.824Z",
       "createdAt": "2025-07-23T22:41:23.152Z",
       "isActive": true
+    },
+    "The boi is good ": {
+      "username": "The boi is good ",
+      "password": "$2b$10$UxREMj5qcsSgFontj3bOwOCjJXwgBv7tCrSUkvrc8Tnd7WWoOJFLK",
+      "email": "",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-23T23:56:01.665Z",
+      "createdAt": "2025-07-23T23:55:56.839Z",
+      "isActive": true
+    },
+    "Nameless ": {
+      "username": "Nameless ",
+      "password": "$2b$10$r.CNW8XQg9h5agpjg/Wxoexb0i/rpHBHafQddeibE2oVAWGYhCJSm",
+      "email": "",
+      "coins": 100,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-24T00:22:01.641Z",
+      "createdAt": "2025-07-24T00:21:57.500Z",
+      "isActive": true
     }
   },
   "admins": {
