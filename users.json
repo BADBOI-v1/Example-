@@ -70,10 +70,10 @@
       "username": "RIckx",
       "password": "$2b$10$blya6tNtvaNtgrKjfakZAur2/GsxgpX1wRptS2qjRBQKy3e0qldDi",
       "email": "",
-      "coins": 50,
+      "coins": 100,
       "deployments": 0,
       "dailyClaims": 0,
-      "lastClaimDate": null,
+      "lastClaimDate": "2025-07-24T15:43:42.473Z",
       "createdAt": "2025-07-24T15:43:35.627Z",
       "isActive": true
     }
