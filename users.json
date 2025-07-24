@@ -32,6 +32,17 @@
       "lastClaimDate": "2025-07-24T14:15:34.643Z",
       "createdAt": "2025-07-24T14:15:29.801Z",
       "isActive": true
+    },
+    "Maccain": {
+      "username": "Maccain",
+      "password": "$2b$10$tnmhkWNwY..VPfnKcx6QpuDInDhctB7PI1hXZSKAas9abD4YSV/se",
+      "email": "",
+      "coins": 50,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": null,
+      "createdAt": "2025-07-24T14:26:20.099Z",
+      "isActive": true
     }
   },
   "admins": {
