@@ -26,10 +26,10 @@
       "username": "I'M HIM",
       "password": "$2b$10$e50e0DIPBt6ntsnFhRl.COG9AshM9lwhm3t.Z17MbJzCNXHv9LO1u",
       "email": "johnkenedyajayi370@gmail.com",
-      "coins": 50,
+      "coins": 100,
       "deployments": 0,
       "dailyClaims": 0,
-      "lastClaimDate": null,
+      "lastClaimDate": "2025-07-24T14:15:34.643Z",
       "createdAt": "2025-07-24T14:15:29.801Z",
       "isActive": true
     }
