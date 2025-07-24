@@ -186,6 +186,17 @@
       "lastClaimDate": "2025-07-24T04:57:20.402Z",
       "createdAt": "2025-07-24T04:57:11.919Z",
       "isActive": true
+    },
+    "0123": {
+      "username": "0123",
+      "password": "$2b$10$ASjtz4WB1HfC.bEnBuoVrOwiNQq008j0p4JCAZzIg.n706SJdcyLO",
+      "email": "apehshedrack01@gmail.com",
+      "coins": 50,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": null,
+      "createdAt": "2025-07-24T08:06:19.496Z",
+      "isActive": true
     }
   },
   "admins": {
