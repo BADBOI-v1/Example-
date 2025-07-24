@@ -164,6 +164,28 @@
       "lastClaimDate": "2025-07-24T00:59:41.435Z",
       "createdAt": "2025-07-24T00:59:37.608Z",
       "isActive": true
+    },
+    "John": {
+      "username": "John",
+      "password": "$2b$10$sQsq7hT5tJSpw/GNr6ea3OEL39lkU.uoG5zahACKCw0rF5YX2FIui",
+      "email": "",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-24T04:52:03.816Z",
+      "createdAt": "2025-07-24T04:51:52.101Z",
+      "isActive": true
+    },
+    "Bot001": {
+      "username": "Bot001",
+      "password": "$2b$10$Hd5uLbOFuV29oZ7884XtX.UHEamIY9zaFXzfTAsV7bHmAKR9usWgm",
+      "email": "",
+      "coins": 5,
+      "deployments": 1,
+      "dailyClaims": 0,
+      "lastClaimDate": "2025-07-24T04:57:20.402Z",
+      "createdAt": "2025-07-24T04:57:11.919Z",
+      "isActive": true
     }
   },
   "admins": {
