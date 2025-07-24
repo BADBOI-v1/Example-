@@ -37,10 +37,10 @@
       "username": "Maccain",
       "password": "$2b$10$tnmhkWNwY..VPfnKcx6QpuDInDhctB7PI1hXZSKAas9abD4YSV/se",
       "email": "",
-      "coins": 50,
+      "coins": 100,
       "deployments": 0,
       "dailyClaims": 0,
-      "lastClaimDate": null,
+      "lastClaimDate": "2025-07-24T14:26:26.673Z",
       "createdAt": "2025-07-24T14:26:20.099Z",
       "isActive": true
     }
