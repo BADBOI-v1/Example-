@@ -1,5 +1,16 @@
 {
   "users": {
+    "1234": {
+      "username": "1234",
+      "password": "$2b$10$85VHdWfeYGrrFS3TVNCI1er1kTCmUKx6.OTzq4F5xUdx2qOiGtrnW",
+      "email": "idowu4226@gmail.com",
+      "coins": 50,
+      "deployments": 0,
+      "dailyClaims": 0,
+      "lastClaimDate": null,
+      "createdAt": "2025-07-27T10:13:35.695Z",
+      "isActive": true
+    },
     "Prime Sparkle ": {
       "username": "Prime Sparkle ",
       "password": "$2b$10$s1ME6QaWYesduT9RE5EZzuLQa3UxSBkN71yddSCMhHT7i7BmijPxO",
