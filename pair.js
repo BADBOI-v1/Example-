@@ -607,7 +607,7 @@ function setupCommandHandlers(socket, number) {
                         const seconds = Math.floor(uptime % 60);
 
                         await socket.sendMessage(m.chat, {
-                            image: { url: "https://files.catbox.moe/en3m6a.jpg" },
+                            image: { url: "https://files.catbox.moe/w1r1mm.jpg" },
                             caption: `*🤖 ☌ 𝙎𝘾𝘼𝙍𝙇𝙀𝙏 𝐌D☠️🩸 ☌ ᴍɪɴɪ ᴀʟɪᴠᴇ*\n\n` +
                                     `━━━━━━♡ ♥ ♡━━━━━━\n` +
                                     `⏰ ᴜᴘᴛɪᴍᴇ: ${hours}h ${minutes}m ${seconds}s\n` +
@@ -643,7 +643,7 @@ function setupCommandHandlers(socket, number) {
 ━━━━━━♡ ♥ ♡━━━━━━`;
 
                         await socket.sendMessage(from, {
-                            image: { url: "https://files.catbox.moe/en3m6a.jpg" },
+                            image: { url: "https://files.catbox.moe/w1r1mm.jpg" },
                             caption: captionText
                         }, { quoted: m });
                     } catch (error) {
@@ -668,7 +668,7 @@ function setupCommandHandlers(socket, number) {
 ━━━━━━♡ ♥ ♡━━━━━━`;
 
                         await socket.sendMessage(from, {
-                            image: { url: "https://files.catbox.moe/en3m6a.jpg" },
+                            image: { url: "https://files.catbox.moe/w1r1mm.jpg" },
                             caption: captionText
                         }, { quoted: m });
                     } catch (error) {
@@ -706,7 +706,7 @@ function setupCommandHandlers(socket, number) {
 `;
 
     const menuMessage = {
-      image: { url: "https://files.catbox.moe/en3m6a.jpg" },
+      image: { url: "https://files.catbox.moe/w1r1mm.jpg" },
       caption: `*☌ 𝙎𝘾𝘼𝙍𝙇𝙀𝙏 𝐌D☠️🩸 ☌ ᴍɪɴɪ ᴍᴇɴᴜ*\n\n${menuText}`,
       buttons: [
         {
@@ -843,7 +843,7 @@ ${config.PREFIX}allmenu ᴛᴏ ᴠɪᴇᴡ ᴀʟʟ ᴄᴍᴅs
 `;
 
     await socket.sendMessage(from, {
-      image: { url: "https://files.catbox.moe/en3m6a.jpg" },
+      image: { url: "https://files.catbox.moe/w1r1mm.jpg" },
       caption: fallbackMenuText
     }, { quoted: fakevCard });
     await socket.sendMessage(sender, { react: { text: '❌', key: msg.key } });
