@@ -1,0 +1,20 @@
+{
+  "users": {},
+  "admins": {
+    "kingbadboi": {
+      "username": "kingbadboi",
+      "password": "$2b$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+      "coins": null,
+      "isAdmin": true,
+      "createdAt": "2025-09-20T15:15:31.196Z"
+    }
+  },
+  "deployments": {},
+  "settings": {
+    "maintenanceMode": false,
+    "coinsPerDeployment": 5,
+    "dailyClaimLimit": 50,
+    "deploymentCost": 100,
+    "registrationBonus": 50
+  }
+}
