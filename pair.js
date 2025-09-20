@@ -56,7 +56,7 @@ const config = {
         MENU: 'https://files.catbox.moe/oekb4n.jpg',
         OWNER: 'https://files.catbox.moe/oekb4n.jpg',
         SONG: 'https://files.catbox.moe/ceblz0.jpg',
-        VIDEO: 'https://files.catbox.moe/np2egr.jpg
+        VIDEO: 'https://files.catbox.moe/np2egr.jpg'
     }
 };
 
